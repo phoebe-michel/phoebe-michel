@@ -13,7 +13,7 @@
   - [ ] Familiarizing myself with all things DSA
   - [ ] Practicing LeetCode Problems
   - [ ] Learning about Big O Notation and how to apply it in Algorithm Analysis
-- [ ] Personal Project: Pomofocus.io Clone (Built with Vue.js)
+- [ ] Personal Project: [Pomofocus.io Clone](https://github.com/phoebe-michel/pomofocus-io-clone-vuejs) (Built with Vue.js)
   - [ ] Current: Completing UI
 
 <!--
