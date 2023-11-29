@@ -13,6 +13,8 @@
   - [ ] Familiarizing myself with all things DSA
   - [ ] Practicing LeetCode Problems
   - [ ] Learning about Big O Notation and how to apply it in Algorithm Analysis
+- [ ] Personal Project: Pomofocus.io Clone (Built with Vue.js)
+  - [ ] Current: Completing UI
 
 <!--
 **phoebe-michel/phoebe-michel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
