@@ -9,12 +9,13 @@
 
 ## What am I working on?
 
+- [ ] Personal Project: [Pomofocus.io Clone](https://github.com/phoebe-michel/pomofocus-io-clone-vuejs) (Built with Vue.js)
+  - [ ] Current: Completing UI
+- [ ] Learning React
 - [ ] Data Structures & Algorithms
   - [ ] Familiarizing myself with all things DSA
   - [ ] Practicing LeetCode Problems
   - [ ] Learning about Big O Notation and how to apply it in Algorithm Analysis
-- [ ] Personal Project: [Pomofocus.io Clone](https://github.com/phoebe-michel/pomofocus-io-clone-vuejs) (Built with Vue.js)
-  - [ ] Current: Completing UI
 
 <!--
 **phoebe-michel/phoebe-michel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
